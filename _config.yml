@@ -21,7 +21,7 @@ author: Jonatan Krause-Jensen
 
 navbar-links:
   About Me: "aboutme"
-  Test: "/_posts/test-post"
+  Test: "test/test"
 
 ################
 # --- Logo --- #
