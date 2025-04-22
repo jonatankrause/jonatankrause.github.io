@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Skills:
   Projects:
-    Podcasts: "/Projects/Podcasts/Podcasts.md"
+    Podcasts: "/Projects/Podcasts/Podcasts"
+    Public Spaces: "/Projects/Public Spaces/PublicSpaces"
 
 ################
 # --- Logo --- #
