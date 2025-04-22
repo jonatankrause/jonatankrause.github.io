@@ -21,9 +21,7 @@ author: Jonatan Krause-Jensen
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    Podcasts: "/Projects/Podcasts/Podcasts"
-    Public Spaces: "/Projects/Public Spaces/PublicSpaces"
+  Podcasts: "/Projects/Podcasts/Podcasts"
 
 ################
 # --- Logo --- #
