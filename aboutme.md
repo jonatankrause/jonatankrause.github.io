@@ -9,6 +9,6 @@ My name is Jonatan. A few of my interests:
 - Podcasts
 - Media analysis
 - Social justice and critique
-- And more.
+- ... and more
 
 
