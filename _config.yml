@@ -22,6 +22,9 @@ author: Jonatan Krause-Jensen
 navbar-links:
   About Me: "aboutme"
   Podcasts: "/Projects/Podcasts/Podcasts"
+  Tests: 
+    Test1: "/Tests/test-2"
+    Test2: "/Tests/test-2"
 
 ################
 # --- Logo --- #
