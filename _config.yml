@@ -21,11 +21,10 @@ author: Jonatan Krause-Jensen
 
 navbar-links:
   About Me: "aboutme"
-  Skills: 
-    - Test: "/_posts/test-post.md"
+  Test: "/_posts/test-post.md"
   Projects:
-    - Podcasts: 
-    - Spaces: 
+    Podcasts: 
+    Spaces: 
 
 ################
 # --- Logo --- #
