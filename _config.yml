@@ -28,8 +28,8 @@ navbar-links:
     - Other:
       - Test post: "/_posts/test-post.md"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Podcasts: 
+    - Spaces: 
 
 ################
 # --- Logo --- #
