@@ -1,6 +1,6 @@
 ---
 title: Test 1
-permalink: /Tests/test-1/
+permalink: /Tests/test-2/
 ---
 
 # Test Two
