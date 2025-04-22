@@ -22,11 +22,6 @@ author: Jonatan Krause-Jensen
 navbar-links:
   About Me: "aboutme"
   Skills: 
-    - Languages: 
-      - Human:
-      - Computer:
-    - Other:
-      - Test post: "/_posts/test-post.md"
     - Test: "/_posts/test-post.md"
   Projects:
     - Podcasts: 
