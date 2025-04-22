@@ -27,6 +27,7 @@ navbar-links:
       - Computer:
     - Other:
       - Test post: "/_posts/test-post.md"
+    - Test: "/_posts/test-post.md"
   Projects:
     - Podcasts: 
     - Spaces: 
