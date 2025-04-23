@@ -22,9 +22,9 @@ author: Jonatan Krause-Jensen
 navbar-links:
   About Me: "aboutme"
   Skills: 
-    Languages: ""
+    Languages: "/_pages/Skills/Languages.md"
     Other: ""
-  Projects: ""
+  Projects: "/_pages/Projects/Podcasts.md
 
 ################
 # --- Logo --- #
